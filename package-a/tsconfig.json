@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"target": "ESNext",
+		"module": "CommonJS",
+		"moduleResolution": "node",
+		"sourceRoot": "source",
+		"outDir": "output",
+		"declaration": true,
+		"sourceMap": true,
+		"inlineSources": true,
+	}
+}

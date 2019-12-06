@@ -1,6 +1,9 @@
 {
-	"name": "package-a",
+	"name": "@zoltu/package-a",
 	"version": "1.0.0",
+	"description": "Package B",
+	"license": "Unlicense",
+	"repository": {},
 	"main": "output/index.js",
 	"dependencies": {
 		"typescript": "3.7.3"
